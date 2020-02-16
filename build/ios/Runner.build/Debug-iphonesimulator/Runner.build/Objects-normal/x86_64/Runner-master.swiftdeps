@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "431078fe10e11b120731a0093ebb6bab"
+build_time: [1581869488, 141020000]
+inputs:
+  "/Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Runner/AppDelegate.swift": [1571818148, 0]

@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/wangyaobo/Documents/GitHub/SubscibeTVPlay/subscibetvplay/ios/Flutter/Flutter.framework/Headers/Flutter.h
